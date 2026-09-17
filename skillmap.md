@@ -5,7 +5,7 @@
 ## interface
 * name: Year 5 UOI 3
 * description: Learn to make a map based interaction game!
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* completionUrl: 
 
 ### interface-activity1
 
