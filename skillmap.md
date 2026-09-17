@@ -17,6 +17,16 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
+### interface-activity2
+
+* name: Foundation Skills - Making a Character
+* type: tutorial
+* description: Learn how to Make a character
+* tags: easy
+
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+
 ## space
 * name: Design a Space Explorer
 * description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
