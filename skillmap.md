@@ -1,17 +1,17 @@
-# sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+# Y5 - UOI 3
+* name: Year 5 - UOI 3
+* description: Learn to make a map based interaction game!
 
 ## interface
-* name: Learn to use MakeCode Arcade
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* name: Year 5 UOI 3
+* description: Learn to make a map based interaction game!
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: Foundation Skills - Making a Character
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: Learn how to Make a character
 * tags: easy
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
