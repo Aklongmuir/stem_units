@@ -3,61 +3,61 @@
 * name: Year 5 Leadership Simulator
 * description: Test skillmap
 
-## space
+## Simulator
 * name: Test Path
 * description: Test
 
-### space-activity1
+### simulator-activity1
 
-* name: Ship Design
+* name: Setting the Scene
 * type: tutorial
-* description: Draw and code a spaceship!
+* description: Select your map and characters
 * tags: easy
-* next: space-activity2
+* next: simulator-activity2
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 
-### space-activity2
+### simulator-activity2
 
-* name: Projectiles
+* name: Interactions
 * type: tutorial
-* description: Customize your ship with projectiles and effects.
-* tags: easy, projectiles, kinds
-* next: space-activity3
+* description: Make it so your characters can now interact with each other!
+* tags: easy, 
+* next: simulator-activity3
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
 
-### space-activity3
+### simulator-activity3
 
-* name: Enemies
-* description: Watch out for danger! Add enemies and lives to your game.
+* name: Points
+* description: Have your character gain or loose points based on interactions
 * type: tutorial
 * tags: easy, enemies, kinds
-* next: space-activity4
+* next: simulator-activity4
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
 
-### space-activity4
+### simulator-activity4
 
-* name: Enemies
-* description: Watch out for danger! Add enemies and lives to your game.
+* name: Testing
+* description: something something
 * type: tutorial
 * tags: easy, enemies, kinds
-* next: space-activity5
+* next: simulator-activity5
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
 
-### space-activity5
+### simulator-activity5
 
 * name: Enemies
 * description: Watch out for danger! Add enemies and lives to your game.
 * type: tutorial
 * tags: easy, enemies, kinds
-* next: space-activity6
+* next: simulator-activity6
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
