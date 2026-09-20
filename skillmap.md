@@ -15,6 +15,7 @@
 * description: Test Activity
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* next: activity2
 
 ### activity2
 
@@ -23,6 +24,7 @@
 * description: Test Activity
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* next: activity3
 
 ### activity3
 
