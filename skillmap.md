@@ -42,11 +42,32 @@
 
 ### space-activity4
 
-* name: Fuel Up
+* name: Enemies
+* description: Watch out for danger! Add enemies and lives to your game.
 * type: tutorial
-* description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
-* tags: intermediate, extensions
+* tags: easy, enemies, kinds
+* next: space-activity5
 
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
+### space-activity5
+
+* name: Enemies
+* description: Watch out for danger! Add enemies and lives to your game.
+* type: tutorial
+* tags: easy, enemies, kinds
+* next: space-activity6
+
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
+
+### space-activity6
+
+* name: Enemies
+* description: Watch out for danger! Add enemies and lives to your game.
+* type: tutorial
+* tags: easy, enemies, kinds
+
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
