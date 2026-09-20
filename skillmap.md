@@ -3,33 +3,50 @@
 * name: Year 5 Leadership Simulator
 * description: Test skillmap
 
-## path1
-
+## space
 * name: Test Path
 * description: Test
 
-### activity1
+### space-activity1
 
-* name: First Activity
+* name: Ship Design
 * type: tutorial
-* description: Test Activity
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
-* next: activity2
+* description: Draw and code a spaceship!
+* tags: easy
+* next: space-activity2
 
-### activity2
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 
-* name: Second Activity
+### space-activity2
+
+* name: Projectiles
 * type: tutorial
-* description: Test Activity
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
-* next: activity3
+* description: Customize your ship with projectiles and effects.
+* tags: easy, projectiles, kinds
+* next: space-activity3
 
-### activity3
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
 
-* name: Third Activity
+### space-activity3
+
+* name: Enemies
+* description: Watch out for danger! Add enemies and lives to your game.
 * type: tutorial
-* description: Test Activity
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* tags: easy, enemies, kinds
+* next: space-activity4
+
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
+
+### space-activity4
+
+* name: Fuel Up
+* type: tutorial
+* description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
+* tags: intermediate, extensions
+
+
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
