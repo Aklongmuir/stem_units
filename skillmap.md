@@ -15,7 +15,7 @@
 * tags: easy
 * next: simulator-activity2
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
+* url: https://github.com/Aklongmuir/stem_units/blob/main/tutorials/simulator/level1.md
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 
 ### simulator-activity2
