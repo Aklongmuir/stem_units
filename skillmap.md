@@ -62,7 +62,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
 
-### space-activity6
+### simulator-activity6
 
 * name: Enemies
 * description: Watch out for danger! Add enemies and lives to your game.
