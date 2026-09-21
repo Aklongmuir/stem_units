@@ -1,73 +1,58 @@
-# y5-uoi3
+# y6-uoi2
 
-* name: Year 5 Leadership Simulator
+* name: Year 6 Platformer Arcade Game
 * description: Test skillmap
 
-## Simulator
-* name: Test Path
-* description: Test
+## platformer
+* name: Learn to Make a Platformer
+* description: A skillmap that takes you through how to build a platformer with multiple levels.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
 
-### simulator-activity1
+### platformer-activity1
 
-* name: Setting the Scene
+* name: Simple Platformer
 * type: tutorial
-* description: Select your map and characters
+* description: Learn how to make a player character that can jump and move around a tilemap.
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity1
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity1.png
 * tags: easy
-* next: simulator-activity2
+* next: platformer-activity2
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
+### platformer-activity2
 
-### simulator-activity2
-
-* name: Interactions
+* name: Camera and Tiles
 * type: tutorial
-* description: Make it so your characters can now interact with each other!
-* tags: easy, 
-* next: simulator-activity3
+* description: Learn how to use the camera and add tile overlap events to give the player a way to win and lose.
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity2
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity2.png
+* tags: easy, tiles
+* next: platformer-activity3
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
+### platformer-activity3
 
-### simulator-activity3
-
-* name: Points
-* description: Have your character gain or loose points based on interactions
+* name: Simple Enemies
 * type: tutorial
-* tags: easy, enemies, kinds
-* next: simulator-activity4
+* description: Learn how to add enemies to your game that follow the player.
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity3
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity3.png
+* tags: intermediate, overlaps
+* next: platformer-activity4
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
+### platformer-activity4
 
-### simulator-activity4
-
-* name: Testing
-* description: something something
+* name: Multiple Levels
 * type: tutorial
-* tags: easy, enemies, kinds
-* next: simulator-activity5
+* description: Add a second level to your platformer using functions.
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity4
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity4.png
+* tags: intermediate, functions
+* next: platformer-activity5
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
+### platformer-activity5
 
-### simulator-activity5
-
-* name: Enemies
-* description: Watch out for danger! Add enemies and lives to your game.
+* name: Enemy AI
 * type: tutorial
-* tags: easy, enemies, kinds
-* next: simulator-activity6
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
-
-### simulator-activity6
-
-* name: Enemies
-* description: Watch out for danger! Add enemies and lives to your game.
-* type: tutorial
-* tags: easy, enemies, kinds
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
+* description: Add physics and AI to the enemies in your game.
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity5
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity5.png
+* tags: intermediate, AI, physics
